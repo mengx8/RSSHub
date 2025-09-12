@@ -288,8 +288,8 @@ importers:
         specifier: 1.1.0
         version: 1.1.0
       youtube-caption-extractor:
-        specifier: 1.8.2
-        version: 1.8.2
+        specifier: 1.9.1
+        version: 1.9.1
       youtubei.js:
         specifier: 15.0.1
         version: 15.0.1
@@ -6190,8 +6190,8 @@ packages:
     resolution: {integrity: sha512-cYVsTjKl8b+FrnidjibDWskAv7UKOfcwaVZdp/it9n1s9fU3IkgDbhdIRKCW4JDsAlECJY0ytoVPT3sK6kideA==}
     engines: {node: '>=18'}
 
-  youtube-caption-extractor@1.8.2:
-    resolution: {integrity: sha512-4VNDP5rIjBmTF4Us2aPiu5c795Yf/yLqXtEQ3U33PPJsoutKrmeIyx/8NBYH0Qlzk+tEmaftQ7/6a6TgfYNtVA==}
+  youtube-caption-extractor@1.9.1:
+    resolution: {integrity: sha512-KK1OparV3kpIIRkMgLRsQPE73Tu0hYy0CDKcWkF8O3eikyib0IqVjoDNDiGt0KhGbg0/jhh+VUOCcWn/G6nvAw==}
     engines: {node: '>=14.0.0'}
 
   youtubei.js@15.0.1:
@@ -12477,7 +12477,7 @@ snapshots:
 
   yoctocolors-cjs@2.1.2: {}
 
-  youtube-caption-extractor@1.8.2:
+  youtube-caption-extractor@1.9.1:
     dependencies:
       he: 1.2.0
       striptags: 3.2.0
